@@ -23,7 +23,9 @@ python3 DHT-CAMHUNT.py
 # 🎯 How It Works?
 
 🔹 Runs a lightweight Flask server to initiate image capture.
+
 🔹 Utilizes web requests for seamless execution.
+
 🔹 Stores captured images securely for review.
 
 # 🔥 Why Choose ChamPhish?
