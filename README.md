@@ -5,7 +5,8 @@ The most powerful camera hacking tool only for educational purposes
 
 Welcome to ChamPhish, a fun and educational tool designed to capture images in a controlled environment.
 
-# ⚠️ Disclaimer: This tool is strictly for educational and ethical use. Do not use it for malicious activities.
+# ⚠️ Disclaimer: 
+This tool is strictly for educational and ethical use. Do not use it for malicious activities.
 
 # 🚀 Installation Guide
 
@@ -15,11 +16,11 @@ apt update && apt upgrade -y
 pkg update && pkg upgrade -y
 pkg install git wget python python3 -y
 pip install pyfiglet flask
-git clone 
+git clone https://github.com/DHThackers-10/DHT-CAMHUNT.git
 cd DHT-CAMHUNT
-python3 DHT_CAMHUNT.py
+python3 DHT-CAMHUNT.py
 ```
-🎯 How It Works?
+# 🎯 How It Works?
 
 🔹 Runs a lightweight Flask server to initiate image capture.
 🔹 Utilizes web requests for seamless execution.
@@ -33,7 +34,8 @@ python3 DHT_CAMHUNT.py
 ✅ Ethical & Secure Usage
 
 # credits 
-👨‍💻 Created by DHT hackers | 🔗 GitHub: [Your Repo Link]
+👨‍💻 Created by DHT hackers | 🔗 GitHub: [https://github.com/DHThackers-10]
+Whatsapp community: [https://chat.whatsapp.com/G2hCkCzylra2OENEfhH8Os]
 
 
 -
