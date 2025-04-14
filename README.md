@@ -20,6 +20,8 @@ git clone https://github.com/DHThackers-10/DHT-CAMHUNT.git
 cd DHT-CAMHUNT
 python3 DHT-CAMHUNT.py
 ```
+# Screenshot 
+![Image](https://github.com/user-attachments/assets/5526c586-438b-4eb5-9ce8-bfea0350e676)
 # 🎯 How It Works?
 
 🔹 Runs a lightweight Flask server to initiate image capture.
