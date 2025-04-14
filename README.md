@@ -14,7 +14,7 @@ Fire up your terminal and execute the following commands:
 ```
 apt update && apt upgrade -y
 pkg update && pkg upgrade -y
-pkg install git wget python python3 -y
+pkg install git wget python cloudflared python3 -y
 pip install pyfiglet flask
 git clone https://github.com/DHThackers-10/DHT-CAMHUNT.git
 cd DHT-CAMHUNT
